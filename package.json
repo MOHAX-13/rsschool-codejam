@@ -1,0 +1,27 @@
+{
+  "name": "rsschool-codejam",
+  "version": "0.0.1",
+  "description": "JS functions",
+  "main": "sumOfOther.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MOHAX-13/rsschool-codejam.git"
+  },
+  "author": "Denis Minzakirov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MOHAX-13/rsschool-codejam/issues"
+  },
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "mocha": "^5.2.0"
+  },
+  "homepage": "https://github.com/MOHAX-13/rsschool-codejam#readme",
+  "dependencies": {
+    "eslint-plugin-import": "^2.14.0"
+  }
+}

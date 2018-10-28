@@ -9,3 +9,4 @@ function sumOfOther(arr) {
 	};
     return result;
 };
+module.exports = sumOfOther;
